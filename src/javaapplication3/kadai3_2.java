@@ -23,6 +23,7 @@ public class kadai3_2 {
         System.out.println(i);
       }
       i++;
+      i--;
     }
   }
 }
