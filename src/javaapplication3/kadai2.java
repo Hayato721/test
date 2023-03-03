@@ -14,5 +14,14 @@ public class kadai2 {
         for(i = 1; i <= 10; i++){
             System.out.println(i);
         }
+        if (1 == 1) {
+
+        } else {
+
+        }
+        if (1 == 1)
+        {
+
+        }
     }
 }
